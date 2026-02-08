@@ -2,6 +2,8 @@
 using namespace std;
 
 int main() {
-    cout << "Hello C++ with Git!" << endl;
+    
+    cout << "My first project on GitHub" << endl;
+
     return 0;
 }
